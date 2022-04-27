@@ -2,7 +2,7 @@
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided the conditions.
 
-// Package imports:
+// Project imports:
 import 'package:classic_logger/src/color/ansi_color.dart';
 import 'package:classic_logger/src/color/console_color.dart';
 import 'package:classic_logger/src/log_level.dart';

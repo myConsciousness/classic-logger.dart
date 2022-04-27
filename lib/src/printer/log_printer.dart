@@ -3,8 +3,10 @@
 // modification, are permitted provided the conditions.
 
 // Package imports:
-import 'package:classic_logger/src/event/input_event.dart';
 import 'package:intl/intl.dart';
+
+// Project imports:
+import 'package:classic_logger/src/event/input_event.dart';
 
 abstract class LogPrinter {
   /// Returns the new instance of [LogPrinter].

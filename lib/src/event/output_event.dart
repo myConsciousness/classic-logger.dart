@@ -2,6 +2,7 @@
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided the conditions.
 
+// Project imports:
 import 'package:classic_logger/src/log_level.dart';
 
 class OutputEvent {

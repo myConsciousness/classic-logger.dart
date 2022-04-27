@@ -2,14 +2,14 @@
 // Redistribution and use in source and binary forms, with or without
 // modification, are permitted provided the conditions.
 
-// Package imports:
-import 'package:classic_logger/src/filter/log_filter.dart';
+// Project imports:
 import 'package:classic_logger/src/event/input_event.dart';
+import 'package:classic_logger/src/event/output_event.dart';
+import 'package:classic_logger/src/filter/log_filter.dart';
 import 'package:classic_logger/src/log_config.dart';
 import 'package:classic_logger/src/log_level.dart';
 import 'package:classic_logger/src/output/console_output.dart';
 import 'package:classic_logger/src/output/log_output.dart';
-import 'package:classic_logger/src/event/output_event.dart';
 import 'package:classic_logger/src/printer/log_printer.dart';
 
 /// The logger.
