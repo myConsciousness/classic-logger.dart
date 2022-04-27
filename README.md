@@ -15,6 +15,7 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 [![Dart SDK Version](https://badgen.net/pub/sdk-version/classic_logger)](https://pub.dev/packages/classic_logger/)
 [![Test](https://github.com/myConsciousness/classic-logger.dart/actions/workflows/test.yml/badge.svg)](https://github.com/myConsciousness/classic-logger.dart/actions/workflows/test.yml)
 [![Analyzer](https://github.com/myConsciousness/classic-logger.dart/actions/workflows/analyzer.yml/badge.svg)](https://github.com/myConsciousness/classic-logger.dart/actions/workflows/analyzer.yml)
+[![codecov](https://codecov.io/gh/myConsciousness/classic-logger.dart/branch/main/graph/badge.svg?token=WNTKO88X2O)](https://codecov.io/gh/myConsciousness/classic-logger.dart)
 [![CodeFactor](https://www.codefactor.io/repository/github/myConsciousness/classic-logger.dart/badge)](https://www.codefactor.io/repository/github/myConsciousness/classic-logger.dart)
 [![Issues](https://img.shields.io/github/issues/myConsciousness/classic-logger.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/classic-logger.dart/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/myConsciousness/classic-logger.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/classic-logger.dart/pulls)
