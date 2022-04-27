@@ -1,12 +1,12 @@
 ```bash
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╭━━━┳╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃╭━╮┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃┃╱╰┫┃╭━━┳━━┳━━┳┳━━╮┃┃╱╱╭━━┳━━┳━━┳━━┳━╮
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃┃╱╭┫┃┃╭╮┃━━┫━━╋┫╭━╯┃┃╱╭┫╭╮┃╭╮┃╭╮┃┃━┫╭╯
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃╰━╯┃╰┫╭╮┣━━┣━━┃┃╰━╮┃╰━╯┃╰╯┃╰╯┃╰╯┃┃━┫┃
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╰━━━┻━┻╯╰┻━━┻━━┻┻━━╯╰━━━┻━━┻━╮┣━╮┣━━┻╯
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┣━╯┃
-yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━┻━━╯
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╭━━━┳╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ┃╭━╮┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ┃┃╱╰┫┃╭━━┳━━┳━━┳┳━━╮┃┃╱╱╭━━┳━━┳━━┳━━┳━╮
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ┃┃╱╭┫┃┃╭╮┃━━┫━━╋┫╭━╯┃┃╱╭┫╭╮┃╭╮┃╭╮┃┃━┫╭╯
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ┃╰━╯┃╰┫╭╮┣━━┣━━┃┃╰━╮┃╰━╯┃╰╯┃╰╯┃╰╯┃┃━┫┃
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╰━━━┻━┻╯╰┻━━┻━━┻┻━━╯╰━━━┻━━┻━╮┣━╮┣━━┻╯
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┣━╯┃
+yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━┻━━╯
 ```
 
 [![pub package](https://img.shields.io/pub/v/classic_logger.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/classic_logger)
