@@ -23,6 +23,7 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 [![Last Commits](https://img.shields.io/github/last-commit/myConsciousness/classic-logger.dart?logo=git&logoColor=white)](https://github.com/myConsciousness/classic-logger.dart/commits/main)
 [![License](https://img.shields.io/github/license/myConsciousness/classic-logger.dart?logo=open-source-initiative&logoColor=green)](https://github.com/myConsciousness/classic-logger.dart/blob/main/LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/myConsciousness/classic-logger.dart/blob/main/CODE_OF_CONDUCT.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart?ref=badge_shield)
 
 ---
 
@@ -50,6 +51,9 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 **If you just need cool logs like below, then this is the library you're looking for!**
 
 ![Log Output](https://user-images.githubusercontent.com/13072231/165417279-1cc2ea45-d758-44a6-8c98-6d74a295b4e0.png)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart?ref=badge_large)
 
 ## 1.1. Features
 
