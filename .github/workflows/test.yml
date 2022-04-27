@@ -1,0 +1,29 @@
+name: Test
+
+on:
+  push:
+    # staging and trying branches are for Bors config
+    branches: [ main, staging, trying ]
+  pull_request:
+    # staging and trying branches are for Bors config
+    branches: [ main, staging, trying ]
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  test:
+    name: test
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: dart-lang/setup-dart@v1
+    - name: install dependencies
+      run: dart pub get
+    - name: run test
+      run: dart run test . --coverage=coverage
+    - name: coverage
+      run: dart run coverage:format_coverage --lcov --packages=.packages --in coverage --out lcov.info
+    - uses: codecov/codecov-action@v3
+      with:
+        token: ${{secrets.CODECOV_TOKEN}}
+        file: lcov.info
