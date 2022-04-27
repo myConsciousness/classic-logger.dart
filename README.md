@@ -9,6 +9,8 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━┻━━╯
 ```
 
+---
+
 [![pub package](https://img.shields.io/pub/v/classic_logger.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/classic_logger)
 [![Dart SDK Version](https://badgen.net/pub/sdk-version/classic_logger)](https://pub.dev/packages/classic_logger/)
 [![Test](https://github.com/myConsciousness/batch.dart/actions/workflows/test.yml/badge.svg)](https://github.com/myConsciousness/batch.dart/actions/workflows/test.yml)
@@ -26,6 +28,8 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 
 ---
 
+# 1. Classic Logger
+
 <!-- TOC -->
 
 - [1. Classic Logger](#1-classic-logger)
@@ -41,8 +45,6 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
   - [1.6. More Information](#16-more-information)
 
 <!-- /TOC -->
-
-# 1. Classic Logger
 
 - This library provides **minimalist** and **classic** logging.
 - Also it provides very **lightweight** and **clear** logs.
