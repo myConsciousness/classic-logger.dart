@@ -1,6 +1,6 @@
 name: classic_logger
 description: It is a cross-platform classic and minimalist logger written in the Dart language.
-version: 0.0.1
+version: 1.0.0
 repository: https://github.com/myConsciousness/classic-logger.dart
 
 environment:
