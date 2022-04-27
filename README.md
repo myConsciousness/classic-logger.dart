@@ -24,7 +24,6 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 [![License](https://img.shields.io/github/license/myConsciousness/classic-logger.dart?logo=open-source-initiative&logoColor=green)](https://github.com/myConsciousness/classic-logger.dart/blob/main/LICENSE)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart?ref=badge_shield)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/myConsciousness/classic-logger.dart/blob/main/CODE_OF_CONDUCT.md)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FmyConsciousness%2Fclassic-logger.dart?ref=badge_shield)
 
 ---
 
