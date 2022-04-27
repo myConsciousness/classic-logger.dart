@@ -1,3 +1,31 @@
+```bash
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╭━━━┳╮╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭╮
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃╭━╮┃┃╱╱╱╱╱╱╱╱╱╱╱╱╱╱┃┃
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃┃╱╰┫┃╭━━┳━━┳━━┳┳━━╮┃┃╱╱╭━━┳━━┳━━┳━━┳━╮
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃┃╱╭┫┃┃╭╮┃━━┫━━╋┫╭━╯┃┃╱╭┫╭╮┃╭╮┃╭╮┃┃━┫╭╯
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ┃╰━╯┃╰┫╭╮┣━━┣━━┃┃╰━╮┃╰━╯┃╰╯┃╰╯┃╰╯┃┃━┫┃
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╰━━━┻━┻╯╰┻━━┻━━┻┻━━╯╰━━━┻━━┻━╮┣━╮┣━━┻╯
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╭━╯┣━╯┃
+yyyy-MM-dd 09:58:33.352 [info ] (doSomethingCool:12:10                    ) - ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━┻━━╯
+```
+
+[![pub package](https://img.shields.io/pub/v/classic_logger.svg?logo=dart&logoColor=00b9fc)](https://pub.dartlang.org/packages/classic_logger)
+[![Dart SDK Version](https://badgen.net/pub/sdk-version/classic_logger)](https://pub.dev/packages/classic_logger/)
+[![Test](https://github.com/myConsciousness/batch.dart/actions/workflows/test.yml/badge.svg)](https://github.com/myConsciousness/batch.dart/actions/workflows/test.yml)
+[![Analyzer](https://github.com/myConsciousness/batch.dart/actions/workflows/analyzer.yml/badge.svg)](https://github.com/myConsciousness/batch.dart/actions/workflows/analyzer.yml)
+[![codecov](https://codecov.io/gh/myConsciousness/batch.dart/branch/main/graph/badge.svg?token=J5GT1PF9Y3)](https://codecov.io/gh/myConsciousness/batch.dart)
+[![CodeFactor](https://www.codefactor.io/repository/github/myConsciousness/batch.dart/badge)](https://www.codefactor.io/repository/github/myConsciousness/batch.dart)
+[![Issues](https://img.shields.io/github/issues/myConsciousness/batch.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/batch.dart/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/myConsciousness/batch.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/batch.dart/pulls)
+[![Stars](https://img.shields.io/github/stars/myConsciousness/batch.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/batch.dart)
+[![Code size](https://img.shields.io/github/languages/code-size/myConsciousness/batch.dart?logo=github&logoColor=white)](https://github.com/myConsciousness/batch.dart)
+[![Last Commits](https://img.shields.io/github/last-commit/myConsciousness/batch.dart?logo=git&logoColor=white)](https://github.com/myConsciousness/batch.dart/commits/main)
+[![License](https://img.shields.io/github/license/myConsciousness/batch.dart?logo=open-source-initiative&logoColor=green)](https://github.com/myConsciousness/batch.dart/blob/main/LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/myConsciousness/batch.dart/blob/main/CODE_OF_CONDUCT.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FmyConsciousness%2Fbatch.dart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FmyConsciousness%2Fbatch.dart?ref=badge_shield)
+
+---
+
 <!-- TOC -->
 
 - [1. Classic Logger](#1-classic-logger)
