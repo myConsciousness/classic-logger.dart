@@ -1,0 +1,7 @@
+allowedCopyrightHolders:
+  - 'Kato Shinya'
+allowedLicenses:
+  - 'BSD-3'
+sourceFileExtensions:
+  - 'dart'
+# ignoreFiles are empty
