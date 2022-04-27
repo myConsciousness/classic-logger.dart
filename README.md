@@ -51,7 +51,7 @@ yyyy-MM-dd 09:58:33.352 [info ] (main:12:10) - ╱╱╱╱╱╱╱╱╱╱╱
 
 **If you just need cool logs like below, then this is the library you're looking for!**
 
-![Log Output](https://user-images.githubusercontent.com/13072231/165417279-1cc2ea45-d758-44a6-8c98-6d74a295b4e0.png)
+![Log Output](https://user-images.githubusercontent.com/13072231/165431142-4b8dc4c9-0030-401f-935c-f9f07c713ec7.png)
 
 ## 1.1. Features
 
