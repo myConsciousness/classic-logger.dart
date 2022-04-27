@@ -7,6 +7,7 @@ import 'package:classic_logger/src/color/ansi_color.dart';
 import 'package:classic_logger/src/color/console_color.dart';
 import 'package:classic_logger/src/log_level.dart';
 
+/// This class manages the color scheme of the log.
 class LogColor {
   /// Returns the new instance of [LogColor].
   LogColor({

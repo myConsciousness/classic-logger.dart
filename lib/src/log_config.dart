@@ -6,6 +6,7 @@ import 'package:classic_logger/src/color/log_color.dart';
 import 'package:classic_logger/src/log_level.dart';
 import 'package:classic_logger/src/output/log_output.dart';
 
+/// The configuration of the logger.
 class LogConfig {
   /// Returns the new instance of [LogConfig].
   LogConfig({

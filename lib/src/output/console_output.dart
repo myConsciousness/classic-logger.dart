@@ -6,9 +6,7 @@ import 'package:classic_logger/src/color/log_color.dart';
 import 'package:classic_logger/src/output/log_output.dart';
 import 'package:classic_logger/src/event/output_event.dart';
 
-/// Default implementation of [LogOutput].
-///
-/// It sends everything to the system console.
+/// This class is responsible for log output to the console.
 class ConsoleOutput extends LogOutput {
   ConsoleOutput({LogColor? logColor}) : _logColor = logColor ?? LogColor();
 

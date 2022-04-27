@@ -9,6 +9,7 @@ import 'dart:io';
 import 'package:classic_logger/src/output/log_output.dart';
 import 'package:classic_logger/src/event/output_event.dart';
 
+/// This class is responsible for log output to the file.
 class FileOutput extends LogOutput {
   /// Returns the new instance of [FileOutput].
   FileOutput(

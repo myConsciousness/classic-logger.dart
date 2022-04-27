@@ -12,6 +12,7 @@ import 'package:classic_logger/src/output/log_output.dart';
 import 'package:classic_logger/src/event/output_event.dart';
 import 'package:classic_logger/src/printer/log_printer.dart';
 
+/// The logger.
 abstract class Logger {
   /// Returns the new instance of [Logger].
   factory Logger() => _Logger.fromConfig(LogConfig());

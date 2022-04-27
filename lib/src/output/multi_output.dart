@@ -5,6 +5,7 @@
 import 'package:classic_logger/src/output/log_output.dart';
 import 'package:classic_logger/src/event/output_event.dart';
 
+/// This class is responsible for log output to the multiple streams.
 class MultiOutput extends LogOutput {
   /// Returns the new instance of [MultiOutput].
   MultiOutput(this.outputs);
